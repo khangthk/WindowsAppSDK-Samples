@@ -9,7 +9,7 @@
   <Identity
     Name="154d34a9-d0d6-436b-9c68-460b94ff61a4"
     Publisher="CN=Microsoft Corporation"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <Properties>
     <DisplayName>SampleApp (Package)</DisplayName>

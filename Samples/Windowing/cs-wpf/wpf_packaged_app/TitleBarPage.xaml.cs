@@ -38,7 +38,6 @@ namespace wpf_packaged_app
         {
             m_mainWindow = Window.GetWindow(this) as MainWindow;
             m_mainAppWindow = AppWindowExtensions.GetAppWindowFromWPFWindow(m_mainWindow);
-
         }
 
         private void TitlebarBrandingBtn_Click(object sender, RoutedEventArgs e)
